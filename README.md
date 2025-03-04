@@ -21,7 +21,7 @@ This project is a **Flask-based web application** that predicts house prices in 
 ```sh
     pip install -r requirements.txt
 ```
-### 5. Run the Main file to Train
+### 4. Run the Main file to Train
 ```sh
      python main.py
 ```
@@ -31,7 +31,7 @@ This project is a **Flask-based web application** that predicts house prices in 
     python app.py
 ```
 
-### 5. Access the Application
+### 6. Access the Application
 Open your browser and go to:
 ```
     http://localhost:5000
