@@ -8,8 +8,8 @@ This project is a **Flask-based web application** that predicts house prices in 
 ## Installation
 ### 1. Clone the Repository
 ```sh
-    git clone https://github.com/yourusername/house-price-prediction.git
-    cd house-price-prediction
+    git clone https://github.com/shwetabagade26/house_price_predictor.git
+    cd house_price_predictor
 ```
 
 ### 2. Create a Virtual Environment 
